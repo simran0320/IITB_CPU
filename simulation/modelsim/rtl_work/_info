@@ -1,0 +1,566 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/simulation/modelsim
+Ealu
+Z1 w1669557130
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+R0
+Z5 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd
+Z6 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd
+l0
+L6 1
+VCgJNjYNKMzATFnDNNlMaG3
+!s100 <S9YN>>0j^Bg`AMP[lNJ;0
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1669559694
+!i10b 1
+Z9 !s108 1669559694.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd|
+Z11 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Aworking
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 CgJNjYNKMzATFnDNNlMaG3
+!i122 8
+l24
+L21 135
+V@defPJQzfM9P@F5746H6o1
+!s100 6Ebei3j[C>B<?L5C2z4Th3
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edut
+Z14 w1669559672
+R3
+R4
+!i122 9
+R0
+Z15 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd
+Z16 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd
+l0
+L3 1
+V3_B^:RkA3:FEmU6f;T=N32
+!s100 ln8@=fOcCTe4^Qo3HCP0>2
+R7
+31
+Z17 !s110 1669559695
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd|
+Z19 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd|
+!i113 1
+R12
+R13
+Adutwrap
+R3
+R4
+DEx4 work 3 dut 0 22 3_B^:RkA3:FEmU6f;T=N32
+!i122 9
+l160
+L8 294
+VM;o4<aEHo31=S3;n]OFjI2
+!s100 ]cW5f@<CKV;7Y;4`4;z>A1
+R7
+31
+R17
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Eins_decoder
+R1
+R2
+R3
+R4
+!i122 5
+R0
+Z20 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd
+Z21 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd
+l0
+L35 1
+Vdh4iiN3Zla?SDWIl`9EW:2
+!s100 ;_JJKEGdZ:GkKboZdPPc80
+R7
+31
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd|
+Z23 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd|
+!i113 1
+R12
+R13
+Aworking
+R2
+R3
+R4
+DEx4 work 11 ins_decoder 0 22 dh4iiN3Zla?SDWIl`9EW:2
+!i122 5
+l88
+L47 367
+VGond^=X5hO8bN?:5QhN6J2
+!s100 e`Ugd2LAJQ0c>XAcU]HDK3
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Eins_setter
+R1
+R2
+R3
+R4
+!i122 5
+R0
+R20
+R21
+l0
+L5 1
+VCBW@0BAAb4hR1QF9oJ1L62
+!s100 ea_b^1>^=>;QeVmSOEACN3
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Aworking
+R2
+R3
+R4
+DEx4 work 10 ins_setter 0 22 CBW@0BAAb4hR1QF9oJ1L62
+!i122 5
+l16
+L12 19
+Vz<N[;d6H[XY`3?bWVAzbE1
+!s100 @M8bzLU7S=1Rf5`L5NSgY3
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Emem
+Z24 w1669558077
+R2
+R3
+R4
+!i122 7
+R0
+Z25 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd
+Z26 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd
+l0
+L5 1
+V>ca]1]@j:l5lnd:P9Fj>U1
+!s100 kZ[VAHRZY[FR8TbP2Z>363
+R7
+31
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd|
+Z28 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd|
+!i113 1
+R12
+R13
+Aworking
+R2
+R3
+R4
+DEx4 work 3 mem 0 22 >ca]1]@j:l5lnd:P9Fj>U1
+!i122 7
+l43
+L19 46
+VkKj<iWIS4DjE73ggf6Bi60
+!s100 _`bmT281U9kBlHbc:MI]10
+R7
+31
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Epc
+R1
+R2
+R3
+R4
+!i122 1
+R0
+Z29 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd
+Z30 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd
+l0
+L7 1
+V^^ZC35d>]O^A]NIdDa1Z;0
+!s100 cn`2k]mSOSj_mAW9K7m:Z2
+R7
+31
+R8
+!i10b 1
+Z31 !s108 1669559693.000000
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd|
+Z33 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd|
+!i113 1
+R12
+R13
+Aprogram
+R2
+R3
+R4
+DEx4 work 2 pc 0 22 ^^ZC35d>]O^A]NIdDa1Z;0
+!i122 1
+l21
+L19 25
+VjiAW[]8USTT3TazU?DQKD0
+!s100 eOV8K]Tmn[6fMZ4:`bJCE1
+R7
+31
+R8
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R12
+R13
+Eregisters
+Z34 w1669557190
+R2
+R3
+R4
+!i122 6
+R0
+Z35 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd
+Z36 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd
+l0
+L7 1
+VAiGbOTQiBW_V20fz`^A7f3
+!s100 ;l5^ca:1imYB=INE2jjG52
+R7
+31
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd|
+Z38 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd|
+!i113 1
+R12
+R13
+Aworking
+R2
+R3
+R4
+DEx4 work 9 registers 0 22 AiGbOTQiBW_V20fz`^A7f3
+!i122 6
+l29
+L23 63
+VVjO5]P8f;7@gLohZ@H^DN0
+!s100 XXMIIz=jLjdNTo1A4VYO23
+R7
+31
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Eshifter_7
+R1
+R2
+R3
+R4
+!i122 10
+R0
+Z39 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd
+Z40 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd
+l0
+L7 1
+V2j4KYfQBHLLJmEQ0`0F5o1
+!s100 O7Sm>dQK65`_8kS^@B_h23
+R7
+31
+R17
+!i10b 1
+Z41 !s108 1669559695.000000
+Z42 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd|
+Z43 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd|
+!i113 1
+R12
+R13
+Aworking
+R2
+R3
+R4
+DEx4 work 9 shifter_7 0 22 2j4KYfQBHLLJmEQ0`0F5o1
+!i122 10
+l15
+L14 13
+VoJ1RMkKlC39hcc8mXNLQ@3
+!s100 IjNoffVeTlIITm4e`RPPI0
+R7
+31
+R17
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R12
+R13
+Esign_extender_10_component
+R1
+R2
+R3
+R4
+!i122 0
+R0
+Z44 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd
+Z45 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd
+l0
+L7 1
+V1;MD2R7b^zV06ISO@MXS51
+!s100 gFbgCNb@4N<;FgXfAYNZV0
+R7
+31
+Z46 !s110 1669559693
+!i10b 1
+R31
+Z47 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd|
+Z48 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd|
+!i113 1
+R12
+R13
+Aworking
+R2
+R3
+R4
+DEx4 work 26 sign_extender_10_component 0 22 1;MD2R7b^zV06ISO@MXS51
+!i122 0
+l15
+L14 11
+VkU=VTV;_lZaF2z2YHh5Rb0
+!s100 EkOa^=^H320i8;LZizS:90
+R7
+31
+R46
+!i10b 1
+R31
+R47
+R48
+!i113 1
+R12
+R13
+Et1
+Z49 w1669557398
+R2
+R3
+R4
+!i122 3
+R0
+Z50 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd
+Z51 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd
+l0
+L5 1
+VAo@QIJ6kdEZT6a8Wclb]A2
+!s100 =d`Se_HbV9S2Kfi[A8h8i1
+R7
+31
+R8
+!i10b 1
+R9
+Z52 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd|
+Z53 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd|
+!i113 1
+R12
+R13
+Atemp
+R2
+R3
+R4
+DEx4 work 2 t1 0 22 Ao@QIJ6kdEZT6a8Wclb]A2
+!i122 3
+l21
+L19 40
+VU3C3aKDjDc3FaR=UHzfz[1
+!s100 b2D6fKRC;Dz5=C>@[;@Cm0
+R7
+31
+R8
+!i10b 1
+R9
+R52
+R53
+!i113 1
+R12
+R13
+Et2
+R1
+R2
+R3
+R4
+!i122 2
+R0
+Z54 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd
+Z55 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd
+l0
+L6 1
+VaTi;:iG;IaRBIbk;U0[1L2
+!s100 5[Zzn_oUKK@nCULLc2Qaj3
+R7
+31
+R8
+!i10b 1
+R9
+Z56 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd|
+Z57 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd|
+!i113 1
+R12
+R13
+Atemp2
+R2
+R3
+R4
+DEx4 work 2 t2 0 22 aTi;:iG;IaRBIbk;U0[1L2
+!i122 2
+l23
+L21 34
+V0O^S?h=HhWN]i0SPV[_La2
+!s100 B;=Rz5d_Zc3bHAF5IZXQF0
+R7
+31
+R8
+!i10b 1
+R9
+R56
+R57
+!i113 1
+R12
+R13
+Et3
+R1
+R2
+R3
+R4
+!i122 4
+R0
+Z58 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd
+Z59 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd
+l0
+L6 1
+V?YX21lL>8chDiO=2cC_680
+!s100 E8`YWbLC@_S[jd[0K`h^R1
+R7
+31
+R8
+!i10b 1
+R9
+Z60 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd|
+Z61 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd|
+!i113 1
+R12
+R13
+Atemp3
+R2
+R3
+R4
+DEx4 work 2 t3 0 22 ?YX21lL>8chDiO=2cC_680
+!i122 4
+l24
+L22 39
+V9DC8GoOngKnC>Hdo:_Rf50
+!s100 ?jHcAQ@mAi^GKYXdo>elV2
+R7
+31
+R8
+!i10b 1
+R9
+R60
+R61
+!i113 1
+R12
+R13
+Etestbench
+R1
+R4
+R3
+!i122 11
+R0
+Z62 8C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd
+Z63 FC:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd
+l0
+L7 1
+VJ_e;Li4kjj:=cFn1oH;;n3
+!s100 iOQOBk_Q893hYFEUQFKM10
+R7
+31
+R17
+!i10b 1
+R41
+Z64 !s90 -reportprogress|300|-93|-work|work|C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd|
+!s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd|
+!i113 1
+R12
+R13
+Abehave
+R4
+R3
+DEx4 work 9 testbench 0 22 J_e;Li4kjj:=cFn1oH;;n3
+!i122 11
+l69
+L9 132
+VFC8B]_[Kc>ko=e6?NNFof2
+!s100 []YZ<5kBCc6l5YNVkBGlc1
+R7
+31
+R17
+!i10b 1
+R41
+R64
+Z65 !s107 C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd|
+!i113 1
+R12
+R13

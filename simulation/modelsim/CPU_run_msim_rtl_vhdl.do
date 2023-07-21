@@ -1,0 +1,27 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd}
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd}
+
+vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd}
+
+vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs="+acc"  testbench
+
+add wave *
+view structure
+view signals
+run -all

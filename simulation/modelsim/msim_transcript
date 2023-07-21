@@ -1,0 +1,207 @@
+# Reading pref.tcl
+# do CPU_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:53 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/SignExtend10to16.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sign_extender_10_component
+# -- Compiling architecture working of sign_extender_10_component
+# End time: 20:04:53 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:53 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/pc.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity pc
+# -- Compiling architecture program of pc
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity t2
+# -- Compiling architecture temp2 of t2
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity t1
+# -- Compiling architecture temp of t1
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/t3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity t3
+# -- Compiling architecture temp3 of t3
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ins_setter
+# -- Compiling architecture working of ins_setter
+# -- Compiling entity ins_decoder
+# -- Compiling architecture working of ins_decoder
+# ** Warning: C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/state_transition.vhd(49): (vcom-1013) Initial value of "imm_copy" depends on value of signal "imm".
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/register.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity registers
+# -- Compiling architecture working of registers
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity mem
+# -- Compiling architecture working of mem
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity alu
+# -- Compiling architecture working of alu
+# End time: 20:04:54 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:54 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/DUT.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity DUT
+# -- Compiling architecture DutWrap of DUT
+# End time: 20:04:55 on Nov 27,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:55 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/shifter_7.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity shifter_7
+# -- Compiling architecture working of shifter_7
+# End time: 20:04:55 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:04:55 on Nov 27,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/ABISHEK SAVALIYA/OneDrive/Documents/IITB sem 3/EE 224 Digital/Project_224/Final_sub_224/VHDL code for project/testbench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity testbench
+# -- Compiling architecture Behave of testbench
+# End time: 20:04:55 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs="+acc"  testbench
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs=""+acc"" testbench 
+# Start time: 20:04:55 on Nov 27,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbench(behave)
+# Loading work.dut(dutwrap)
+# Loading ieee.numeric_std(body)
+# Loading work.ins_decoder(working)
+# Loading work.ins_setter(working)
+# Loading work.t1(temp)
+# Loading work.mem(working)
+# Loading work.registers(working)
+# Loading work.t2(temp2)
+# Loading work.t3(temp3)
+# Loading work.alu(working)
+# Loading work.pc(program)
+# Loading work.shifter_7(working)
+# Loading work.sign_extender_10_component(working)
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: ABISHEK SAVALIYA  Hostname: LAPTOP-P7HE6034  ProcessID: 47712
+#           Attempting to use alternate WLF file "./wlftk0j7s8".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftk0j7s8
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut_instance/mem_instance
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/dut_instance/alu_instance
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 10 ns  Iteration: 2  Instance: /testbench/dut_instance/reg_instance
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 10 ns  Iteration: 2  Instance: /testbench/dut_instance/reg_instance
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 20 ns  Iteration: 2  Instance: /testbench/dut_instance/alu_instance
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 20 ns  Iteration: 2  Instance: /testbench/dut_instance/alu_instance
+# ** Note: SUCCESS, all tests passed.
+#    Time: 60 ns  Iteration: 0  Instance: /testbench
+# End time: 20:05:12 on Nov 27,2022, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 8
